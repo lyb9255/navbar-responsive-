@@ -78,7 +78,6 @@ body {
   }
 
   .navbar__menu {
-    display: none;
     width: 100%;
     flex-direction: column;
     justify-content: center;
@@ -90,7 +89,6 @@ body {
   }
 
   .navbar__icons {
-    display: none;
     width: 100%;
     justify-content: center;
     text-align: center;
